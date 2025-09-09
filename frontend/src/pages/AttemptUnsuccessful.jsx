@@ -1,5 +1,5 @@
 import React from "react";
- // CSS file for this page
+
 
 export default function AttemptUnsuccessful() {
   return (
